@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "thingamajigsgoodies:sludge_source",
+    "thingamajigsgoodies:sludge_flowing",
+    "thingamajigsgoodies:purifying_water_source",
+    "thingamajigsgoodies:purifying_water_flowing"
+  ]
+}
