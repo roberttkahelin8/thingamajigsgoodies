@@ -1,0 +1,16 @@
+{
+    "variants":{
+        "powered=false,glowing=false":{
+            "model": "thingamajigsgoodies:bases/base_tsb_off"
+        },
+        "powered=true,glowing=false":{
+            "model": "thingamajigsgoodies:bases/base_tsb_red_on"
+        },
+        "powered=false,glowing=true":{
+            "model": "thingamajigsgoodies:bases/base_tsb_yellow_on"
+        },
+        "powered=true,glowing=true":{
+            "model": "thingamajigsgoodies:bases/base_tsb_on"
+        }
+    }
+}

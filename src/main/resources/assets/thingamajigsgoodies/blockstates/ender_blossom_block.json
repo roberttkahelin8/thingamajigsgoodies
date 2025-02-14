@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "thingamajigsgoodies:block/enderblossom_age_0"
+    },
+    "age=1": {
+      "model": "thingamajigsgoodies:block/enderblossom_age_1"
+    },
+    "age=2": {
+      "model": "thingamajigsgoodies:block/enderblossom_age_2"
+    },
+    "age=3": {
+      "model": "thingamajigsgoodies:block/enderblossom_age_3"
+    }
+  }
+}

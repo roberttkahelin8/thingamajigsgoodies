@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "sprung=false": {
+      "model": "thingamajigsgoodies:block/spring_unsprung"
+    },
+    "sprung=true": {
+      "model": "thingamajigsgoodies:block/spring_sprung"
+    }
+  }
+}
