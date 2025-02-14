@@ -1,6 +1,7 @@
 Thingamajigs 2 Goodies Repository
 
 All the code, data and assets are here. This is mostly for testing and examining code for use with other mods in modpacks.
+Note that the generated files are not included here, as those can be generated on the fly by using an IDE and excuting the 'runData' gradle script.
 
 Take a look and borrow code according to the ARR-UOES license. The license is not a registered type, it is a set of guidelines that people should follow should they use parts of or the entire thing.
 
