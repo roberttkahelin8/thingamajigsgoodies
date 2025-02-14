@@ -1,0 +1,6 @@
+{
+  "render_type": "translucent",
+  "textures": {
+    "particle": "thingamajigsgoodies:block/purifying_water_still"
+  }
+}

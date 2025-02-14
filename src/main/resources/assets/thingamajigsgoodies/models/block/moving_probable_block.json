@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "thingamajigsgoodies:block/moving_probable_block"
+  }
+}
