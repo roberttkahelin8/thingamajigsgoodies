@@ -1,0 +1,32 @@
+{
+  "type": "thingamajigsgoodies:combining_recipe_serializer",
+  "first": {
+    "item": "minecraft:netherite_sword"
+  },
+  "fourth": {
+    "item": "minecraft:conduit"
+  },
+  "output": {
+    "count": 1,
+    "id": "minecraft:netherite_sword",
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:unbreaking": 10,
+          "minecraft:sharpness": 10,
+          "minecraft:sweeping_edge": 10,
+          "minecraft:fire_aspect": 10
+        },
+        "show_in_tooltip": true
+      },
+      "minecraft:rarity": "epic",
+      "minecraft:item_name": "[\"Upgraded Netherite Sword\"]"
+    }
+  },
+  "second": {
+    "item": "thingamajigsgoodies:purifying_block"
+  },
+  "third": {
+    "item": "minecraft:heavy_core"
+  }
+}
