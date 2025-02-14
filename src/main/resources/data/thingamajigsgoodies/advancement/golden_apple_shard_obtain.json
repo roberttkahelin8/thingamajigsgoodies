@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "thingamajigsgoodies:golden_apple_shard",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.thingamajigsgoodies.shardget.title"
+    },
+    "description": {
+      "translate": "advancements.thingamajigsgoodies.shardget.desc"
+    }
+  },
+  "parent": "thingamajigsgoodies:converter_get",
+  "criteria": {
+    "get_golden_apple_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "thingamajigsgoodies:golden_apple_shard"
+          }
+        ]
+      }
+    }
+  },
+  "sends_telemetry_event": false
+}

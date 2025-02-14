@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "tickonce": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "thingamajigs:textures/block/steel_bottom.png",
+    "description": {
+      "translate": "advancements.thingamajigsgoodies.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "thingamajigsgoodies:purifying_block"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.thingamajigsgoodies.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "tickonce"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

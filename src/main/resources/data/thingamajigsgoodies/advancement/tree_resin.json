@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "thingamajigs:tree_resin",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.thingamajigsgoodies.tree_resin.title"
+    },
+    "description": {
+      "translate": "advancements.thingamajigsgoodies.tree_resin.desc"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "thingamajigsgoodies:rubber_trees",
+  "criteria": {
+    "get_tree_resin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "thingamajigs:tree_resin"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_tree_resin"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

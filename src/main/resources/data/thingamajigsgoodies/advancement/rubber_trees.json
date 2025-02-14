@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "thingamajigs:rubber_sapling",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.thingamajigsgoodies.rubber_tree.title"
+    },
+    "description": {
+      "translate": "advancements.thingamajigsgoodies.rubber_tree.desc"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "thingamajigsgoodies:root",
+  "criteria": {
+    "get_wood": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#thingamajigs:rubber_logs"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_wood"
+    ]
+  ],
+  "rewards": {
+    "experience": 10
+  },
+  "sends_telemetry_event": false
+}

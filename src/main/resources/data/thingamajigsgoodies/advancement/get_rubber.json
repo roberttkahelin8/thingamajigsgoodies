@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "thingamajigs:rubber",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.thingamajigsgoodies.rubber.title"
+    },
+    "description": {
+      "translate": "advancements.thingamajigsgoodies.rubber.desc"
+    },
+    "frame": "goal",
+    "announce_to_chat": false
+  },
+  "parent": "thingamajigsgoodies:tree_resin",
+  "criteria": {
+    "rubber_get": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "thingamajigs:rubber"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "rubber_get"
+    ]
+  ],
+  "rewards": {
+    "experience": 5
+  },
+  "sends_telemetry_event": false
+}
