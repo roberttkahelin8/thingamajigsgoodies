@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "thingamajigsgoodies:converter",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.thingamajigsgoodies.converterget.title"
+    },
+    "description": {
+      "translate": "advancements.thingamajigsgoodies.converterget.desc"
+    },
+    "frame": "goal"
+  },
+  "parent": "thingamajigsgoodies:root",
+  "criteria": {
+    "get_converter": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "thingamajigsgoodies:converter"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_converter"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
