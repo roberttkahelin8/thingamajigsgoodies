@@ -15,3 +15,6 @@ All rights reserved unless otherwise explicitly stated.
 You may use this mod in a modpack without any extra restrictions, other than not reposting/earning money off this mod (outside of modpack context).
 
 You can create resource packs and data packs for or based off of assets within this mod as long as you do not claim the name Thingamajigs 2 Addon: Goodies or Thingamajigs 2 Goodies as your own name for your product/service/whatever. And follow the MC M.U.G and E.U.L.A.
+
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT ASSOCIATED WITH MOJANG OR MICROSOFT.
