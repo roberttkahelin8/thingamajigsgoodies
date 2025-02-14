@@ -1,0 +1,6 @@
+{
+    "parent": "thingamajigsgoodies:item/purifying_crossbow",
+    "textures": {
+        "layer0": "thingamajigsgoodies:item/purifying_crossbow_pulling_1"
+    }
+}

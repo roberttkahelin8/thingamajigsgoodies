@@ -1,0 +1,6 @@
+{
+    "parent": "thingamajigsgoodies:item/purifying_bow",
+    "textures": {
+        "layer0": "thingamajigsgoodies:item/purifying_bow_pulling_0"
+    }
+}
